@@ -1,0 +1,15 @@
+{
+  "name": "SUCCESSFUL",
+  "symbol": "SUCCESSFUL",
+  "description": "Just a successful guy",
+  "image": "https://i.imgur.com/doFYgQU.png",
+  "properties": {
+    "category": "utility",
+    "creators": [
+      {
+        "address": "4tpXknjgwhC1NVfNurL5eFedgHqbCWPRgKvN2Ri6uAg",
+        "share": 100
+      }
+    ]
+  }
+}
